@@ -30,7 +30,7 @@ Active Directory Lightweight Directory Service
  ## High Speed Access
 
 Application可以更快的直接获取数据，而无需再通过网络去取得数据，因为LDS与Application就在一台机器上。
-
+123123
 
 
 ## Provide Authentication and Security
