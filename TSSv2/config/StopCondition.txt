@@ -1,0 +1,13 @@
+$Result = Test-Path C:\Windows;
+Write-host "Test Result: $Result";
+if ($Result) {
+	Return $True
+} else {
+	Return $False
+}
+
+# Sample StopConfigt.txt file with a conditon written in PowerShell code. The code will be invoked from TSSv2.ps1 as "Invoke-Command -ScriptBlock {...}"
+# Write your stop condition above ^^^. Make sure the condition either returns a result of $True or $False
+# You need to terminate each statement of your code with semicolon ";"
+# Please do not include any comment lines or trailing comments with #
+# In the basic example code above, $Result is typically $True (if folder C:\Windows exists), so the stop condition is triggered immediatelly

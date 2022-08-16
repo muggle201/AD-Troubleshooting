@@ -14,3 +14,22 @@ TCP特性
   点对点的环形结构，不提供一对多。
 
 # TCP Header
+- Source port
+- Dest port
+- Seq Num
+- Ack Num
+- Flags
+- ...
+
+
+## TCP Port
+
+## TCP Flags
+- ACK
+- RST
+  表明收到了错误的TCP segment，立即中止连接。
+- SYN
+- FIN
+# Connections
+A TCP connection is a bidirectional, full-duplex logical circuit between two process(Application Layer protocols) in an IP network.
+> TCP连接是双向且可同时传输
