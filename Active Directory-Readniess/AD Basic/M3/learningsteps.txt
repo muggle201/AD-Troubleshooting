@@ -1,0 +1,17 @@
+1) 上一个module的总结 （10分钟vidio）
+2) Video1	介绍join domain的概念（10分钟video）
+3) Demo		Join domain（5分钟）
+4) Lab		Join domain（10分钟）
+5) Video2 	讲解加域的步骤，介绍debug log（10分钟）
+6) Reading	technet/KB/PPT（30分钟）
+7) Video3	讲解抓包，详细分析加域的网络通信（15分钟）
+8) Lab		把机器退域，重新加域时抓包，阅读netmon（20分钟）
+9) Video4	介绍退域的方法，以及特点（10分钟）
+10)Reading	PPT（20分钟）
+11)Lab		退域（10分钟）
+12)Video5	Troubleshooting介绍（15分钟）
+13)Reading	PPT（20分钟）
+14)Video6	总结回顾（5分钟）
+15)Reading	寻找答案（15分钟）	
+16)Quiz		5题
+

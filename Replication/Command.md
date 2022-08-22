@@ -141,7 +141,7 @@ $strDCname = <DomainDNSName>
 $context = New-Object
 System.DirectoryServices.ActiveDirectory.DirectoryContext('DirectoryServer',$strDCname)
 $dc = 
-[System.DIrectoryServices.ActiveDirectory.DomainController]
+[System.DirectoryServices.ActiveDirectory.DomainController]
 ::getDomainController($context)
 $strPartDN = "<Partition DN>"
 $dc.TriggerSyncReplicaFromNeighbors($strPartDN)
