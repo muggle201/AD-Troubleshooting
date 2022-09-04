@@ -1,2 +1,0 @@
-验证即确认object或person身份的过程。<br>
-在网络中，则是向Application或Resource提供身份的操作。
