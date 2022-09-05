@@ -20,3 +20,13 @@ $userContainer.Delete("user","CN=Alice")
 # Syntax
 Get-Command -Syntax New-ADUser
 
+$user = get-aduser
+$user | Get-Member
+
+# Get All Properties
+$user = get-adsuer user -property *
+$user | Get-Member
+
+#
+$user = new-aduser "PowerShell User"
+$user | set-adobject -Description "I will test AD"
