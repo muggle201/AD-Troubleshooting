@@ -116,4 +116,12 @@ dfsrdiag backlog /sendingmember: /receivingmember: /rgname: /rfname:
 
    ReplicatedFolderId 
 
-4. 
+4. ResumeReplication
+
+   ```powershell
+   wmic /namespace:\\root\microsoftdfs path dfsrVolumeConfig where volumeGuid=”GUID-NUMBER” call ResumeReplication
+   ```
+
+   
+
+5. df
