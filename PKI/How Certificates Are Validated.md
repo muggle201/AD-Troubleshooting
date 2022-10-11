@@ -1,3 +1,11 @@
+reference:
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ee619754(v=ws.10)?redirectedfrom=MSDN
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776447(v%3dws.10)
+
+
+
 在信任证书前，Windows将进行检查：
 
 - Valid certificate
