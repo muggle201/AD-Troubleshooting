@@ -1,6 +1,6 @@
 Schannel是SSP，使用SSL或TLS。TLS/SSL基于PKI。
 
-## Prictical application
+## Practical application
 
 - Transactions with an e-commerce website
 - Remote access
