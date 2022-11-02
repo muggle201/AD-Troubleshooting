@@ -1,0 +1,1 @@
+https://techcommunity.microsoft.com/t5/itops-talk-blog/powershell-basics-how-to-check-active-directory-replication/ba-p/326364
